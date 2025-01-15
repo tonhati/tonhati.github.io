@@ -3310,8 +3310,7 @@ input, select, textarea {
 		cursor: default;
 		text-align: center;
 		z-index: 1;
-		min-height: 5vh;
-		max-height: 10vh;
+		min-height: 30vh;
 	}
 
 		#intro input, #intro select, #intro textarea {
